@@ -38,7 +38,8 @@ var age = document.getElementById('age');
 age.innerHTML = difYear + " Years " + difMon + " Months " + difDate + " Days.";
 
 function copy() {
-    var inputc = document.body.appendChild(document.createElement("input"));
+    var input = document.createElement("input");
+    var inputc = document.body.appendChild(input);
     inputc.value = window.location.href;
     inputc.focus();
     inputc.select();
