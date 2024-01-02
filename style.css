@@ -23,6 +23,7 @@ table{
     width: 100%;
     text-align: center;
     border-collapse: collapse;
+    height: 800px;
 }
 .footer{
     text-align: center;
