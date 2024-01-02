@@ -38,7 +38,7 @@ table{
 }
 .copylink{
     position: absolute;
-    left: 30px;
+    left: 35px;
     bottom: 30px ;
 }
 #time, #dob{
@@ -47,17 +47,17 @@ table{
 }
 .dark{
     position: absolute;
-    right: 30px;
+    right: 35px;
     bottom: 30px;
 }
 
 button{
-    font-size: 35px;
+    font-size: 40px;
     border-radius: 35%;
     background-color: cornflowerblue;
 }
 input{
-    font-size: 35px;
+    font-size: 40px;
     border-radius: 35%;
     background-color: cornflowerblue;
 }
