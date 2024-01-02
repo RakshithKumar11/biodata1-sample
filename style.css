@@ -25,3 +25,7 @@ table{
     padding: 10px;
     font-size: 15px;
 }
+.dark-mode{
+    background-color: black;
+    color: white;
+}
