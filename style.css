@@ -9,26 +9,26 @@
 }
 .name{
     text-align: center;
-    font-size: 5vw;
-    padding: 1vw;
+    font-size: 50px;
+    padding: 20px;
 }
 
 table,td{
     border: 2px solid black;
     padding: 10px;
-    font-size: 2.5vw;
+    font-size: 45px;
     font-family: 'Poppins', sans-serif;
 }
 table{
     width: 100%;
     text-align: center;
     border-collapse: collapse;
-    height: 100vw;
+    height: 1800px;
 }
 .footer{
     text-align: center;
-    padding: 1vw;
-    font-size: 1vw;
+    padding: 20px;
+    font-size: 25px;
     position: relative;
 }
 .dark-mode{
@@ -37,7 +37,7 @@ table{
 }
 .copylink{
     position: absolute;
-    left: 5vw;
+    left: 12px;
     bottom: 0 ;
 }
 #time, #dob{
@@ -46,17 +46,17 @@ table{
 }
 .dark{
     position: absolute;
-    right: 5vw;
+    right: 12px;
     bottom: 0;
 }
 
 button{
-    font-size: 1.2vw;
+    font-size: 25px;
     border-radius: 35%;
     background-color: cornflowerblue;
 }
 input{
-    font-size: 1.2vw;
+    font-size: 25px;
     border-radius: 35%;
     background-color: cornflowerblue;
 }
