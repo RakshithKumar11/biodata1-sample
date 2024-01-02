@@ -10,7 +10,7 @@
 .name{
     text-align: center;
     font-size: 4vw;
-    padding: 20px;
+    padding: 1vw;
 }
 
 table,td{
@@ -23,11 +23,11 @@ table{
     width: 100%;
     text-align: center;
     border-collapse: collapse;
-    height: 800px;
+    height: 1400px;
 }
 .footer{
     text-align: center;
-    padding: 10px;
+    padding: 1vw;
     font-size: 1vw;
     position: relative;
 }
