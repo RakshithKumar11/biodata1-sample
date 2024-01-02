@@ -9,7 +9,7 @@
 }
 .name{
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
     padding: 20px;
 }
 
@@ -37,7 +37,7 @@ table{
 }
 .copylink{
     position: absolute;
-    left: 12px;
+    left: 20px;
     bottom: 0 ;
 }
 #time, #dob{
@@ -46,17 +46,17 @@ table{
 }
 .dark{
     position: absolute;
-    right: 12px;
+    right: 20px;
     bottom: 0;
 }
 
 button{
-    font-size: 25px;
+    font-size: 35px;
     border-radius: 35%;
     background-color: cornflowerblue;
 }
 input{
-    font-size: 25px;
+    font-size: 35px;
     border-radius: 35%;
     background-color: cornflowerblue;
 }
