@@ -23,9 +23,10 @@ table{
 .footer{
     text-align: center;
     padding: 10px;
-    font-size: 15px;
+    font-size: 16px;
 }
 .dark-mode{
     background-color: black;
     color: white;
+
 }
