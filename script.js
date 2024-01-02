@@ -36,3 +36,13 @@ if(difMon < 0){
 
 var age = document.getElementById('age');
 age.innerHTML = difYear + " Years " + difMon + " Months " + difDate + " Days.";
+
+function copy() {
+    var inputc = document.body.appendChild(document.createElement("input"));
+    inputc.value = window.location.href;
+    inputc.focus();
+    inputc.select();
+    document.execCommand('copy');
+    inputc.parentNode.removeChild(inputc);
+    alert("Link Copied");
+}
