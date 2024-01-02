@@ -11,8 +11,8 @@ function darkmode(el) {
     }
 }
 
-var birthDate = 31;
-var birthMon = 8;
+var birthDate = 11;
+var birthMon = 10;
 var birthYear = 2000;
 
 var date = new Date();

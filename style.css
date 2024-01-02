@@ -5,16 +5,18 @@
 *{
     box-sizing: border-box;
     font-family: 'Open Sans',serif;
+
 }
 .name{
     text-align: center;
-    font-size: 80px;
+    font-size: 35px;
     padding: 20px;
 }
+
 table,td{
     border: 2px solid black;
     padding: 10px;
-    font-size: 20px;
+    font-size: 13px;
     font-family: 'Poppins', sans-serif;
 }
 table{
@@ -25,14 +27,35 @@ table{
 .footer{
     text-align: center;
     padding: 10px;
-    font-size: 16px;
+    font-size: 14px;
+    position: relative;
 }
 .dark-mode{
-    background-color: black;
     color: white;
-
+    background: linear-gradient(109.6deg, rgba(0, 0, 0, 0.93) 11.2%, rgb(63, 61, 61) 78.9%);
+}
+.copylink{
+    position: absolute;
+    left: 10px;
+    bottom: 10px ;
 }
 #time, #dob{
     font-family: 'Bitter', serif;
     font-family: 'Poppins', sans-serif;
+}
+.dark{
+    position: absolute;
+    right: 12px;
+    bottom: 10px;
+}
+
+button{
+    font-size: 10px;
+    border-radius: 35%;
+    background-color: cornflowerblue;
+}
+input{
+    font-size: 10px;
+    border-radius: 35%;
+    background-color: cornflowerblue;
 }
