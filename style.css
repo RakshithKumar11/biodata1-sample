@@ -28,7 +28,7 @@ table{
 .footer{
     text-align: center;
     padding: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 45px;
     font-size: 25px;
     position: relative;
 }
@@ -39,7 +39,7 @@ table{
 .copylink{
     position: absolute;
     left: 30px;
-    bottom: 10px ;
+    bottom: 30px ;
 }
 #time, #dob{
     font-family: 'Bitter', serif;
@@ -48,7 +48,7 @@ table{
 .dark{
     position: absolute;
     right: 30px;
-    bottom: 10px;
+    bottom: 30px;
 }
 
 button{
